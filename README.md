@@ -34,6 +34,12 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
     <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
 </a>
 <h5>Tools</h5>
+<a href="https://www.github.com">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff">
+</a>
+<a href="https://pages.github.com/">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff">
+</a>
 <a href="https://www.debian.org">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff">
 </a>
