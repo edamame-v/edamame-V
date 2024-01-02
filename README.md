@@ -27,6 +27,9 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img alt="JavaScript Wikipedia Page" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
 </a>
+<a href="https://jekyllrb.com/">
+    <img alt="Jekyll Site" src="https://img.shields.io/badge/Jekyll-%23CC0000?style=for-the-badge&logo=jekyll&logoColor=%23ffffff">
+</a>
 <a href="https://mermaid.live">
     <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff">
 </a>
