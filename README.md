@@ -8,3 +8,18 @@ Just here to vibe really.
 
 #### Riveting.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
+
+#### Thingy Mabobs
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff)
+
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
+
+![Static Badge](https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff)
