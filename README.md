@@ -36,6 +36,7 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://www.chartjs.org/">
     <img alt="Chart JS" src="https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff">
 </a>
+
 <h5>Software Development</h5>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img alt="C# Info Page" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff">
@@ -43,6 +44,7 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://www.python.org/">
     <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
 </a>
+
 <h5>Tools</h5>
 <a href="https://www.github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff">
@@ -68,6 +70,10 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://rust-lang.github.io/mdBook/index.html">
     <img= alt="mdBook" src="https://img.shields.io/badge/mDBOOK-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff">
 </a>
+<a href="https://jupyter.org/">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff">
+</a>
+
 <h5>Additional Links</h5>
 <a href="https://codepen.io/edamame-v">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff">
