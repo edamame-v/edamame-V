@@ -10,6 +10,13 @@ Just here to vibe really.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
 
 #### Proficiencies
+<!-- Made using https://shields.io/badges with the following parameters:
+    badgeContent: {thing}-#{colour}
+    style: for-the-badge
+    logoColor: #ffffff
+
+    Logos and Colors from https://simpleicons.org/
+-->
 <h5>Web Dev</h5>
 <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
     <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
