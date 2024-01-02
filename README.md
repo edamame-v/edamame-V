@@ -31,10 +31,10 @@
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23171717?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23432C4A">
     </a>
     <a href="https://pages.github.com/">
-        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff">
+        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff&labelColor=%234C3254">
     </a>
     <a href="https://www.debian.org">
-        <img alt="Debian" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff&labelColor=%234C3254">
+        <img alt="Debian" src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff&labelColor=%23752B36">
     </a>
     <a href="https://www.kali.org/">
         <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff&labelColor=%234B5861">
@@ -55,6 +55,7 @@
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff&labelColor=%23BF7445">
     </a>
 </div>
+
 
 #### What's my deal?
 Just here to vibe really.
