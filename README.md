@@ -10,7 +10,7 @@ Just here to vibe really.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
 
 #### Proficiencies
-##### Web Dev
+<h6>Web Dev</h6>
 <a href="https://en.wikipedia.org/wiki/HTML5">
     <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
 </a>
@@ -29,9 +29,13 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://www.chartjs.org/">
     <img alt="Chart JS" src="https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff">
 </a>
-##### Software Development
-![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
+<h6>Software Development</h6>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img alt="C# Info Page" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff">
+</a>
+<a href="https://www.python.org/">
+    <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
+</a>
 <h5>Tools</h5>
 <a href="https://www.kali.org/">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff">
