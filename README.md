@@ -49,7 +49,7 @@
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff&labelColor=%231F6899">
     </a>
     <a href="https://rust-lang.github.io/mdBook/index.html">
-        <img= alt="mdBook" src="https://img.shields.io/badge/mdBook-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff&labelColor=%23311F33">
+        <img= alt="mdBook" src="https://img.shields.io/badge/mdbook-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff&labelColor=%23311F33">
     </a>
     <a href="https://jupyter.org/">
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff&labelColor=%23BF7445">
