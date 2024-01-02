@@ -2,6 +2,14 @@
 <p align="center">
     Bachelor of Biomedical Sciences Candidate @ the <a rel="nofollow noopener noreferrer" target="_blank" href="https://qut.edu.au">Queensland University of Technology</a>
 </p>
+
+<!-- Made using https://shields.io/badges with the following parameters:
+    badgeContent: {thing}-#{colour}
+    style: for-the-badge
+    logoColor: #ffffff
+
+    Logos and Colors from https://simpleicons.org/
+-->
 <div align="center">
     <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
         <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff&labelColor=%23B05941">
@@ -49,7 +57,7 @@
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff&labelColor=%231F6899">
     </a>
     <a href="https://rust-lang.github.io/mdBook/index.html">
-        <img= alt="mdBook" src="https://img.shields.io/badge/mdbook-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff&labelColor=%23311F33">
+        <img alt="mdBook" src="https://img.shields.io/badge/mdbook-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff&labelColor=%23311F33">
     </a>
     <a href="https://jupyter.org/">
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff&labelColor=%23BF7445">
@@ -63,21 +71,7 @@ Just here to vibe really.
 #### Riveting.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
 
-#### Proficiencies
-<!-- Made using https://shields.io/badges with the following parameters:
-    badgeContent: {thing}-#{colour}
-    style: for-the-badge
-    logoColor: #ffffff
-
-    Logos and Colors from https://simpleicons.org/
--->
-<h5>Web Dev</h5>
-
-<h5>Software Development</h5>
-
-<h5>Tools</h5>
-
-<h5>Additional Links</h5>
+<h4>Additional Links</h4>
 <a href="https://codepen.io/edamame-v">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff">
 </a>
@@ -87,7 +81,7 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://keybase.io/edamamev"> 
     <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
 </a>
-<h5>Stuff I'm Learning</h5>
+<h4>Stuff I'm Learning</h4>
 <a href="https://storybook.js.org/">
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=%23ffffff">
 </a>
