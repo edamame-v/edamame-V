@@ -16,7 +16,7 @@ Just here to vibe really.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
 
 #### Proficiencies
-<div class ="badge">
+<div class="badge">
     <h5>Web Dev</h5>
     <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
         <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
