@@ -20,9 +20,6 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img alt="JavaScript Wikipedia Page" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
 </a>
-<a href="https://react.dev/">
-    <img alt="React JS" src="https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff">
-</a>
 <a href="https://mermaid.live">
     <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff">
 </a>
@@ -49,6 +46,9 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://code.visualstudio.com/">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff">
 </a>
+<a href="https://rust-lang.github.io/mdBook/index.html">
+    <img= alt="mdBook" src="https://img.shields.io/badge/mDBOOK-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff">
+</a>
 <h5>Additional Links</h5>
 <a href="https://codepen.io/edamame-v">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff">
@@ -58,4 +58,14 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 </a>
 <a href="https://keybase.io/edamamev"> 
     <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
+</a>
+<h5>Stuff I'm Learning</h5>
+<a href="https://storybook.js.org/">
+    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=%23ffffff">
+</a>
+<a href="https://react.dev/">
+    <img alt="React JS" src="https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff">
+</a>
+<a href="https://nextjs.org/">
+    <img alt="Next JS" src="https://img.shields.io/badge/Next--JS-%23000000?style=for-the-badge&logo=next.js&logoColor=%23ffffff">
 </a>
