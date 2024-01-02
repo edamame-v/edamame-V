@@ -10,24 +10,37 @@ Just here to vibe really.
 ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
 
 #### Proficiencies
-##### Web Design
+##### Web Dev
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff)
 ##### Software Development
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
 ##### Tools
-![Static Badge](https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff)
+<a href="https://www.kali.org/">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff">
+</a>
+<a href="https://obsidian.md/">
+    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff">
+</a>
+<a href="https://git-scm.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
+</a>
+<a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff">
+</a>
 ##### 
-![Static Badge](https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff)
 ##### Additional Links
 <a href="https://codepen.io/edamame-v">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff">
 </a>
-![Static Badge](https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff)
+<a href="https://app.hackthebox.com/users/1744080">
+    <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=%23ffffff">
+</a>
+<a href="https://keybase.io/edamamev"> 
+    <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
+</a>
