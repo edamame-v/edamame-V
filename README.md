@@ -2,7 +2,26 @@
 <p align="center">
     Bachelor of Biomedical Sciences Candidate @ the <a rel="nofollow noopener noreferrer" target="_blank" href="https://qut.edu.au">Queensland University of Technology</a>
 </p>
-
+<div align="center">
+    <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
+        <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/CSS">
+        <img alt="CSS Wikipedia Page" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript">
+        <img alt="JavaScript Wikipedia Page" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
+    </a>
+    <a href="https://jekyllrb.com/">
+        <img alt="Jekyll Site" src="https://img.shields.io/badge/Jekyll-%23CC0000?style=for-the-badge&logo=jekyll&logoColor=%23ffffff">
+    </a>
+    <a href="https://mermaid.live">
+        <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff">
+    </a>
+    <a href="https://www.chartjs.org/">
+        <img alt="Chart JS" src="https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff">
+    </a>
+</div>
 #### What's my deal?
 Just here to vibe really.
 
@@ -18,24 +37,6 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
     Logos and Colors from https://simpleicons.org/
 -->
 <h5>Web Dev</h5>
-<a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
-    <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS">
-    <img alt="CSS Wikipedia Page" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffffff">
-</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img alt="JavaScript Wikipedia Page" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff">
-</a>
-<a href="https://jekyllrb.com/">
-    <img alt="Jekyll Site" src="https://img.shields.io/badge/Jekyll-%23CC0000?style=for-the-badge&logo=jekyll&logoColor=%23ffffff">
-</a>
-<a href="https://mermaid.live">
-    <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff">
-</a>
-<a href="https://www.chartjs.org/">
-    <img alt="Chart JS" src="https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff">
-</a>
 
 <h5>Software Development</h5>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
