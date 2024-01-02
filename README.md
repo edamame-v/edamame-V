@@ -9,6 +9,8 @@
     logoColor: #ffffff
 
     Logos and Colors from https://simpleicons.org/
+
+    labelColor using https://color.adobe.com/create/color-wheel on Monochromatic
 -->
 <div align="center">
     <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
