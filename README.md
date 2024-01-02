@@ -21,7 +21,41 @@
     <a href="https://www.chartjs.org/">
         <img alt="Chart JS" src="https://img.shields.io/badge/Chart%20JS-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff">
     </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+        <img alt="C# Info Page" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff">
+    </a>
+    <a href="https://www.python.org/">
+        <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
+    </a>
+    <a href="https://www.github.com">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff">
+    </a>
+    <a href="https://pages.github.com/">
+        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff">
+    </a>
+    <a href="https://www.debian.org">
+        <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff">
+    </a>
+    <a href="https://www.kali.org/">
+        <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff">
+    </a>
+    <a href="https://obsidian.md/">
+        <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff">
+    </a>
+    <a href="https://git-scm.com/">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff">
+    </a>
+    <a href="https://rust-lang.github.io/mdBook/index.html">
+        <img= alt="mdBook" src="https://img.shields.io/badge/mDBOOK-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff">
+    </a>
+    <a href="https://jupyter.org/">
+        <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff">
+    </a>
 </div>
+
 #### What's my deal?
 Just here to vibe really.
 
@@ -39,41 +73,8 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <h5>Web Dev</h5>
 
 <h5>Software Development</h5>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img alt="C# Info Page" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=%23ffffff">
-</a>
-<a href="https://www.python.org/">
-    <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
-</a>
 
 <h5>Tools</h5>
-<a href="https://www.github.com">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff">
-</a>
-<a href="https://pages.github.com/">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff">
-</a>
-<a href="https://www.debian.org">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff">
-</a>
-<a href="https://www.kali.org/">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff">
-</a>
-<a href="https://obsidian.md/">
-    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff">
-</a>
-<a href="https://git-scm.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
-</a>
-<a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23ffffff">
-</a>
-<a href="https://rust-lang.github.io/mdBook/index.html">
-    <img= alt="mdBook" src="https://img.shields.io/badge/mDBOOK-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff">
-</a>
-<a href="https://jupyter.org/">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff">
-</a>
 
 <h5>Additional Links</h5>
 <a href="https://codepen.io/edamame-v">
