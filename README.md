@@ -34,6 +34,9 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
     <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff">
 </a>
 <h5>Tools</h5>
+<a href="https://www.debian.org">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff">
+</a>
 <a href="https://www.kali.org/">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kali%20linux&logoColor=%23ffffff">
 </a>
