@@ -1,3 +1,9 @@
+<style>
+    .badge{
+        text-decoration: none;
+    }
+</style>
+
 <h3 align="center">Yo! I'm <a target="_blank" href="https://edamame-v.github.io/about">Edme</a>.</h3>
 <p align="center">
     Bachelor of Biomedical Sciences Candidate @ the <a rel="nofollow noopener noreferrer" target="_blank" href="https://qut.edu.au">Queensland University of Technology</a>
@@ -11,7 +17,7 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 
 #### Proficiencies
 <h6>Web Dev</h6>
-<a href="https://en.wikipedia.org/wiki/HTML5">
+<a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
     <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff">
 </a>
 <a href="https://en.wikipedia.org/wiki/CSS">
