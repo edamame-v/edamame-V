@@ -108,3 +108,5 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://keybase.io/edamamev"> 
     <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
 </a>
+
+![If you're stuck, talk with the duck](images/duck.gif)
