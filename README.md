@@ -12,7 +12,9 @@
 
     labelColor using https://color.adobe.com/create/color-wheel on Monochromatic
 -->
-<div align="center">
+<details>
+    <summary>Web Development</summary>
+    <br>
     <a class="badge" href="https://en.wikipedia.org/wiki/HTML5">
         <img alt="HTML5 Wikipedia Page" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff&labelColor=%23B05941">
     </a>
@@ -22,24 +24,42 @@
     <a href="https://en.wikipedia.org/wiki/JavaScript">
         <img alt="JavaScript Wikipedia Page" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff&labelColor=%23C4B53F">
     </a>
+    <a href="https://mermaid.live">
+        <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff&labelColor=%23CC5476">
+    </a>
+    <a href="https://www.chartjs.org/">
+        <img alt="Chart JS" src="https://img.shields.io/badge/Chart.js-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff&labelColor=%23CC788A">
+    </a>
     <a href="https://jekyllrb.com/">
         <img alt="Jekyll Site" src="https://img.shields.io/badge/Jekyll-%23CC0000?style=for-the-badge&logo=jekyll&logoColor=%23ffffff&labelColor=%23991F1F">
     </a>
+    <a href="https://pages.github.com/">
+        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff&labelColor=%234C3254">
+    </a>
+</details>
+<details>
+    <summary>Software Development</summary>
+    <br>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img alt="C# Info Page" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=%23ffffff&labelColor=%235540A1">
     </a>
     <a href="https://www.python.org/">
         <img alt="Python.org" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff&labelColor=%233E5E78">
     </a>
+</details>
+<details>
+    <summary>DevOps</summary>
+    <br>
     <a href="https://git-scm.com/">
         <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff&labelColor=%23BD5E4D">
     </a>
     <a href="https://www.github.com">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23171717?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23432C4A">
     </a>
-    <a href="https://pages.github.com/">
-        <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github%20pages&logoColor=%23ffffff&labelColor=%234C3254">
-    </a>
+</details>
+<details>
+    <summary>OS & Tools</summary>
+    <br>
     <a href="https://www.debian.org">
         <img alt="Debian" src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23ffffff&labelColor=%23752B36">
     </a>
@@ -48,12 +68,6 @@
     </a>
     <a href="https://obsidian.md/">
         <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=%23ffffff&labelColor=%237852BA">
-    </a>
-    <a href="https://mermaid.live">
-        <img alt="Mermaid Charts" src="https://img.shields.io/badge/Mermaid-%23FF3670?style=for-the-badge&logo=mermaid&logoColor=%23ffffff&labelColor=%23CC5476">
-    </a>
-    <a href="https://www.chartjs.org/">
-        <img alt="Chart JS" src="https://img.shields.io/badge/Chart.js-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=%23ffffff&labelColor=%23CC788A">
     </a>
     <a href="https://rust-lang.github.io/mdBook/index.html">
         <img alt="mdBook" src="https://img.shields.io/badge/mdbook-%23000000?style=for-the-badge&logo=mdbook&logoColor=%23ffffff&labelColor=%23311F33">
@@ -64,8 +78,7 @@
     <a href="https://jupyter.org/">
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff&labelColor=%23BF7445">
     </a>
-</div>
-
+</details>
 
 #### What's my deal?
 Just here to vibe really.
