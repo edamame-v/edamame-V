@@ -108,5 +108,4 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://keybase.io/edamamev"> 
     <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
 </a>
-
-<iframe src="https://giphy.com/embed/79xJCmTzLiXjQqAIpg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTeach-duck-stuck-uteachcs-79xJCmTzLiXjQqAIpg">via GIPHY</a></p>
+<img width="480" height="480" src="https://giphy.com/embed/79xJCmTzLiXjQqAIpg" href="https://giphy.com/embed/79xJCmTzLiXjQqAIpg">
