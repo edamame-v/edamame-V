@@ -12,6 +12,12 @@
 
     labelColor using https://color.adobe.com/create/color-wheel on Monochromatic
 -->
+#### What's my deal?
+Just here to vibe really.
+
+#### Riveting.
+ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
+
 <details>
     <summary>Web Development</summary>
     <br>
@@ -79,13 +85,19 @@
         <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23ffffff&labelColor=%23BF7445">
     </a>
 </details>
-
-#### What's my deal?
-Just here to vibe really.
-
-#### Riveting.
-ikr? if you want more, check out my blog [here](https://edamame-v.github.io/about).
-
+<details>
+    <summary>Stuff I'm Learning</summary>
+    <br>
+    <a href="https://storybook.js.org/">
+        <img alt="Storybook" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=%23ffffff">
+    </a>
+    <a href="https://react.dev/">
+        <img alt="React JS" src="https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff">
+    </a>
+    <a href="https://nextjs.org/">
+        <img alt="Next JS" src="https://img.shields.io/badge/Next--JS-%23000000?style=for-the-badge&logo=next.js&logoColor=%23ffffff">
+    </a>
+</details>
 <h4>Additional Links</h4>
 <a href="https://codepen.io/edamame-v">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=%23ffffff">
@@ -96,13 +108,5 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://keybase.io/edamamev"> 
     <img alt="Keybase" src="https://img.shields.io/badge/KeyBase-%2333A0FF?style=for-the-badge&logo=keybase&logoColor=%23ffffff">
 </a>
-<h4>Stuff I'm Learning</h4>
-<a href="https://storybook.js.org/">
-    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=%23ffffff">
-</a>
-<a href="https://react.dev/">
-    <img alt="React JS" src="https://img.shields.io/badge/React--JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff">
-</a>
-<a href="https://nextjs.org/">
-    <img alt="Next JS" src="https://img.shields.io/badge/Next--JS-%23000000?style=for-the-badge&logo=next.js&logoColor=%23ffffff">
-</a>
+
+<iframe src="https://giphy.com/embed/79xJCmTzLiXjQqAIpg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UTeach-duck-stuck-uteachcs-79xJCmTzLiXjQqAIpg">via GIPHY</a></p>
