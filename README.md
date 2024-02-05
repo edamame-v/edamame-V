@@ -105,13 +105,3 @@ ikr? if you want more, check out my blog [here](https://edamame-v.github.io/abou
 <a href="https://app.hackthebox.com/users/1744080">
     <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=%23ffffff">
 </a>
-
-# BWA
-> [!IMPORTANT] bwa?
-> shababng
-
-> [!IMPORTANT]
-> sa
-
-> [!TIP]
-Bang
